@@ -16,6 +16,9 @@ Glimmora provides a suite of powerful AI tools designed to maximize the impact o
 -   **🗣️ Multilingual Voice Chatbot (Eevee):** Provides critical information to refugees via a voice-based assistant, even in low-connectivity scenarios, by converting text-to-speech.
 -   **🚨 Automated Alerts:** A real-time log of all alerts dispatched to volunteers and coordinators.
 
+  ![image](https://github.com/user-attachments/assets/b80a8f1e-5a77-4a98-b577-d1140cb00125)
+
+
 ## 🛠️ Tech Stack
 
 Glimmora is built with a modern, AI-first technology stack:
