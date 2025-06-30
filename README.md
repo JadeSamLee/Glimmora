@@ -2,9 +2,6 @@
 
 > Glimmora is a groundbreaking AI-native platform built in **Next.js**. It's designed for humanitarian relief, predicting refugee needs, mapping critical situations in real-time, coordinating aid distribution, and ensuring fairness in crisis response.
 
----
-
-**[Read the Full Documentation](./DOCUMENTATION.md)**
 
 ---
 
